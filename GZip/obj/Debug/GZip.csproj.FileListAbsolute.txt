@@ -1,0 +1,6 @@
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\bin\Debug\GZip.exe.config
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\bin\Debug\GZip.exe
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\bin\Debug\GZip.pdb
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\obj\Debug\GZip.csprojResolveAssemblyReference.cache
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\obj\Debug\GZip.exe
+c:\users\nice\documents\visual studio 2015\Projects\GZip\GZip\obj\Debug\GZip.pdb
